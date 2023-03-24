@@ -1,3 +1,11 @@
+<div align="center">
+  
+![image](https://www.lambdatest.com/resources/images/news24.gif)
+  
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Parag Goyal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
